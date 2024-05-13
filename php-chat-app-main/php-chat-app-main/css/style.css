@@ -1,0 +1,88 @@
+.vh-100 {
+	min-height: 100vh;
+	background: linear-gradient(48deg, #900d5ee1, #010a23);
+}
+.w-400 {
+	width: 400px;
+	background: linear-gradient(48deg, #c91d87e1, #6083e5);
+
+}
+.fs-xs {
+	font-size: 1rem;
+	
+}
+.w-10 {
+	width: 10%;
+}
+a {
+	text-decoration: none;
+
+	
+}
+.fs-big {
+	font-size: 5rem !important;
+}
+.online {
+	width: 10px;
+	height: 10px;
+	background: rgb(0, 157, 0);
+	border-radius: 50%;
+	
+}
+.w-15 {
+	width: 15%;
+}
+.fs-sm {
+	font-size: 1.4rem;
+}
+small {
+	color: #33f54ddf;
+	font-size: 0.7rem;
+	text-align: right;
+}
+.chat-box {
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-height: 50vh;
+	background: linear-gradient(48deg, #c91d87e1, #1e377d);
+}
+.rtext {
+	width: 65%;
+	background: #f8f9fa;
+	color: #444;
+}
+
+.ltext {
+	width: 65%;
+	background: #3289c8;
+	color: #ffffff;
+}
+/* width */
+*::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #3289c8;
+}
+
+textarea {
+	resize: none; }
+
+
+
+	
+
+
+/*message_status*/
